@@ -1,5 +1,5 @@
 /*
- * My first Arduino program, taken from c't Make: Arduino Special 2/2017:
+ * My first Arduino program, taken from c't Make: Arduino Special 2/2017, p. 15:
  * Makes a LED blink.
  */
 
