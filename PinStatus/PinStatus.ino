@@ -3,6 +3,7 @@
  */
 
 void setup() {
+  //pinMode(6, INPUT_PULLUP);
   pinMode(6, INPUT);
   Serial.begin(9600);
 }
